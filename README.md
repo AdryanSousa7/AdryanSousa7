@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋, sou Adryan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyms6&label=Profile%20views&color=0e75b6&style=flat" alt="AdryanSousa7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AdryanSousa7&label=Profile%20views&color=0e75b6&style=flat" alt="AdryanSousa7" /> </p>
 
 
 ---
