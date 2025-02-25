@@ -1,30 +1,52 @@
-<h1 align="center">Hi 👋, I'm Adryan</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+<h1 align="center">Olá 👋, sou Adryan</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=adryansousa7&label=Profile%20views&color=0e75b6&style=flat" alt="adryansousa7" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=xyms6&label=Profile%20views&color=0e75b6&style=flat" alt="AdryanSousa7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adryansousa7" alt="adryansousa7" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/adryansousamedeiros" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="adryansousamedeiros" height="30" width="40" /></a>
-<a href="https://instagram.com/_adryansousa2k25" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_adryansousa" height="30" width="40" /></a>
-</p>
+## 🌐 Formas de contato
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/adrziin7.exe)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_adryansousa2k25)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](adryansousa063@gmail.com)
+
+---
+
+###
+
+<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
+
+###
+
+
+## 🖥️ Tecnologias que uso
+
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white)
 ![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat&logo=netlify&logoColor=%2300C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) </p>
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adryansousa7&show_icons=true&locale=en&layout=compact" alt="adryansousa7" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adryansousa7&show_icons=true&locale=en" alt="adryansousa7" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adryansousa7&" alt="adryansousa7" /></p>
+## 📊 Informações  Github
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyms6&theme=aura&hide_border=true&include_all_commits=false&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xyms6&theme=aura&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+
+---
+
+## 🏆 Troféis
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=AdryanSousa7&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=AdryanSousa7&icon=10&color=12)](https://visitcount.itsvg.in)
+
+
 
