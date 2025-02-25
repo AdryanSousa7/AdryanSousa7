@@ -15,7 +15,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AdryanSousa7/AdryanSousa7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/lucascorreaa/lucascorreaa/output/snake.svg" alt="Snake animation" />
 
 ###
 
